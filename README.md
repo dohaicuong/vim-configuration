@@ -1,5 +1,12 @@
 # vim configuration
 
+## easy installation
+```
+curl -L https://raw.githubusercontent.com/dohaicuong/vim-configuration/master/setup.sh | bash
+```
+
+or
+
 ## install pathogen
 ```
 mkdir -p ~/.vim/autoload ~/.vim/bundle && \
